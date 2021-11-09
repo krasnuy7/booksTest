@@ -1,0 +1,32 @@
+.UlCardBooks {
+  display: flex;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  border: 1px solid black;
+  margin-bottom: 10px;
+  width: 295px;
+  border-radius: 10px;
+  padding: 10px;
+  margin-right: 56px;
+  margin-left: 42px;
+}
+.booksMapLi {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  /* margin-right: 10px; */
+}
+.positionBookLi {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  /* justify-content: center; */
+  /* justify-content: space-around; */
+}
+.egitBtn {
+  margin-right: 5px;
+}
+.addBookBtn {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,42 @@
+[
+  {
+    "_id": { "$oid": "59316b89008c586bc2214318" },
+    "name": "Totally awesome book",
+    "author": "Vasya Pupkin",
+    "rating": 5,
+    "price": 666
+  },
+  {
+    "_id": { "$oid": "59316b89008c586bc2214317" },
+    "name": "Cool book",
+    "author": "John Doe",
+    "price": 345
+  },
+  {
+    "_id": { "$oid": "59316b89008c586bc2214316" },
+    "name": "Unnamed book",
+    "author": "Bill Clinton",
+    "rating": 2,
+    "price": 50
+  },
+  {
+    "_id": { "$oid": "59316b89008c586bc2214315" },
+    "name": "Totally awesome book 2",
+    "author": "Vasya Pupkin",
+    "rating": 5,
+    "price": 666
+  },
+  {
+    "_id": { "$oid": "59316b89008c586bc2214314" },
+    "name": "Cool book 2",
+    "author": "John Doe",
+    "price": 345
+  },
+  {
+    "_id": { "$oid": "59316b89008c586bc2214313" },
+    "name": "Unnamed book 2",
+    "author": "Bill Clinton",
+    "rating": 2,
+    "price": 50
+  }
+]

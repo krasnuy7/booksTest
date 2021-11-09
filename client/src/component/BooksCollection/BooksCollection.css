@@ -1,0 +1,14 @@
+.collectionsUl {
+  display: flex;
+  /* flex-direction: column; */
+  flex-direction: column;
+  margin-bottom: 10px;
+  padding-left: 0rem;
+}
+.collectionsDiv {
+  display: flex;
+  flex-direction: column;
+}
+.collectionsUlLi {
+  /* padding: 10px; */
+}

@@ -1,0 +1,26 @@
+[
+  {
+    "name": "First Collection",
+    "description":
+      "The documents returned from query population become fully functional...",
+    "books": [
+      { "$oid": "59316b89008c586bc2214318" },
+      { "$oid": "59316b89008c586bc2214317" }
+    ]
+  },
+  {
+    "name": "Some more books",
+    "description": "Lorem ipsum blah blah...",
+    "books": [
+      { "$oid": "59316b89008c586bc2214318" },
+      { "$oid": "59316b89008c586bc2214317" },
+      { "$oid": "59316b89008c586bc2214316" }
+    ]
+  },
+  {
+    "name": "Empty Collection",
+    "description":
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi voluptates veniam sequi cum velit deleniti aperiam! Quaerat voluptas id mollitia quibusdam quod. Excepturi magni aperiam accusantium dolores exercitationem molestiae omnis.",
+    "books": []
+  }
+]
